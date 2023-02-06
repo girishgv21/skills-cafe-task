@@ -533,6 +533,38 @@ section.recommended-courses {
     section.banner {
         padding: 40px 0;
     }
+
+    h2 {
+        font-size: 30px;
+        line-height: 1.2;
+    }
+    
+    h3 {
+        font-size: 20px;
+        line-height: 1.4;
+    }
+    
+    h4 {
+        font-size: 20px;
+        line-height: 1.4;
+    }
+    
+    .price {
+        margin-top: 20px;
+        font-size: 18px;
+    }
+    
+    p.price {
+        margin-top: 10px;
+    }
+    
+    span.pill.yellow {
+        font-size: 12px;
+    }
+    
+    section.recommended-courses {
+        padding-bottom: 50px;
+    }
 }
 
 @media (max-width: 550px) {
